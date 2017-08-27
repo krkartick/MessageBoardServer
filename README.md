@@ -1,4 +1,4 @@
-<p><span style="font-size: 12pt;"><strong>Message Board Project Description</strong></span></p>
+<p><H2><strong>Message Board Project Description</strong></H2></p>
 <p><br /><strong>Features of MessageBoardServerv1</strong></p>
 <p>POST uri:/&lt;Topic&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = Creates a &lt;Topic&gt;</p>
 <p>POST uri:/&lt;Topic&gt; body &lt;Message&gt; = Posts a message on the &lt;Topic&gt;</p>
