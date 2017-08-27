@@ -8,6 +8,7 @@
 <p>&lt;All the features in MessageBoardServerv1&gt;</p>
 <p>+ Support concurrent HTTP POST using GoLang concurrency framework</p>
 <p>+ Creates upto 1000 workers for concurrent processing&nbsp;</p>
+<p><br /><strong>Check the WIKI Page for comparision on HTTP Performance</strong></p>
 <p><br /><strong>Project details:</strong></p>
 <p>Language Used &nbsp;: GoLang</p>
 <p>Deployment &nbsp; &nbsp; &nbsp;: Docker Container</p>
