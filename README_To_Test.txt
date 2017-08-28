@@ -8,12 +8,13 @@ Environment setup and steps to test this project:
 	
 	3. Install MySQL on any machine. Note the IP Address of the MySQL Database
 	4. Create the schema and database using the script <MySQL_DB_Structure.sql>
-	5. Update the MySQL DB IP address in <RunDockerApp.sh>
-	6. Run the docker image using <RunDockerApp.sh>
-	7. Now, 
+	5. Compile the application using <MyBuild.sh>
+	6. Update the MySQL DB IP address in <RunDockerApp.sh>
+	7. Run the docker image using <RunDockerApp.sh>
+	8. Now, 
 		the <mbserverv1> runs on port 9000 Or
 			<mbserverv2> runs on port 9900
-	8. From any browser REST can be tested with "IPAddress" of the Host machine 
+	9. From any browser REST can be tested with "IPAddress" of the Host machine 
 		URL Syntax: 
 		"http:/<IPAddress>:9000/Topics/<topicname>"
 		
