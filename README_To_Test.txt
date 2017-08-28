@@ -8,7 +8,9 @@ Environment setup and steps to test this project:
 	
 	3. Install MySQL on any machine. Note the IP Address of the MySQL Database
 	4. Create the schema and database using the script <MySQL_DB_Structure.sql>
+		[ Script available in github repository https://github.com/krkartick/MessageBoardServer ]
 	5. Update the MySQL DB IP address in <RunDockerApp.sh>
+		[ Script available in github repository https://github.com/krkartick/MessageBoardServer ]
 	6. Run the docker image using <RunDockerApp.sh>
 	7. Now, 
 		the <mbserverv1> runs on port 9000 Or
